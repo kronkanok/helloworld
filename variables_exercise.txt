@@ -29,3 +29,7 @@ x = y = z = "Orange"
 def myfunc():
   global x
   x = "fantastic"
+<<<<<<< HEAD
+=======
+  
+>>>>>>> 91a0c2b0ac0737e6c5fefb378e6728c2f6d4337f
